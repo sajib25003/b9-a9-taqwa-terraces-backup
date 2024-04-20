@@ -1,0 +1,164 @@
+[
+    {
+        "image": "https://i.ibb.co/JRKjNdp/condo-1.jpg",
+        "id": "001",
+        "estateTitle": "Modern Condo with Stunning Views",
+        "segmentName": "Condo",
+        "description": "This modern condo features panoramic views of the city skyline, luxurious amenities, and spacious living areas. The condo is designed with contemporary finishes and high-end appliances, offering a blend of style and functionality. With floor-to-ceiling windows, natural light floods the interior, creating an inviting atmosphere throughout. The open-concept layout seamlessly connects the living, dining, and kitchen areas, perfect for entertaining guests. The master bedroom boasts a private balcony overlooking the city, providing a tranquil retreat. Residents can enjoy access to exclusive amenities such as a fitness center, swimming pool, and concierge service. Located in the heart of Dhaka, this condo offers convenience and sophistication for modern urban living.",
+        "price": 500000,
+        "status": "sale",
+        "area": 1800,
+        "location": "Dhaka",
+        "facility": [
+            "living room",
+            "kitchen",
+            "balcony",
+            "gym",
+            "parking"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/dp6dcgX/house-2.jpg",
+        "id": "002",
+        "estateTitle": "Cozy Family Home in Suburban Neighborhood",
+        "segmentName": "House",
+        "description": "Nestled in a tranquil suburban neighborhood, this cozy family home offers comfort and serenity. With a charming exterior and well-manicured landscaping, the curb appeal is undeniable. Step inside to discover a warm and inviting interior, featuring spacious living areas and ample natural light. The kitchen is equipped with modern appliances and plenty of counter space, ideal for preparing family meals. Upstairs, the bedrooms offer peaceful retreats, with the master suite boasting a luxurious ensuite bathroom. Outside, the backyard is perfect for outdoor gatherings and playtime with the kids. Located in Chittagong, this home provides a peaceful escape from the hustle and bustle of city life.",
+        "price": 350000,
+        "status": "sale",
+        "area": 2200,
+        "location": "Chittagong",
+        "facility": [
+            "living room",
+            "kitchen",
+            "backyard",
+            "garage",
+            "security"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/6XDW50W/penthouse-3.jpg",
+        "id": "003",
+        "estateTitle": "Luxury Penthouse with Private Rooftop Pool",
+        "segmentName": "Penthouse",
+        "description": "Experience unparalleled luxury living in this breathtaking penthouse located in the heart of Dhaka. Perched atop a high-rise building, this residence offers panoramic views of the city skyline from every angle. The interior is exquisitely designed with premium finishes and state-of-the-art amenities. Entertain guests in the expansive living and dining areas, or relax in the private study with floor-to-ceiling windows. The master suite is a true oasis, featuring a spa-like ensuite bathroom and a private terrace overlooking the city. Ascend to the rooftop to discover your own private paradise, complete with a swimming pool, sun deck, and lush landscaping. With 24-hour concierge service and secure parking, this penthouse redefines luxury living in Dhaka.",
+        "price": 1200000,
+        "status": "sale",
+        "area": 3000,
+        "location": "Dhaka",
+        "facility": [
+            "living room",
+            "kitchen",
+            "rooftop pool",
+            "gym",
+            "concierge service"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/vZGc6jH/townhouse-4.jpg",
+        "id": "004",
+        "estateTitle": "Spacious Townhouse in Historic District",
+        "segmentName": "Townhouse",
+        "description": "Step back in time with this historic townhouse located in the charming district of Sylhet. Built in the early 20th century, this home boasts timeless architectural details and elegant craftsmanship. The interior features spacious rooms, high ceilings, and original hardwood flooring throughout. Entertain guests in the formal living and dining rooms, or cozy up by the fireplace in the family room. The kitchen is a chef's dream, equipped with modern appliances and ample storage space. Upstairs, the bedrooms offer comfort and privacy, with the master suite featuring a luxurious ensuite bathroom. Outside, the garden courtyard provides a tranquil escape from the hustle and bustle of city life. With its rich history and modern amenities, this townhouse offers the best of both worlds in Sylhet.",
+        "price": 450000,
+        "status": "sale",
+        "area": 2500,
+        "location": "Sylhet",
+        "facility": [
+            "living room",
+            "kitchen",
+            "garden courtyard",
+            "fireplace",
+            "security"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/g7NsnV2/loft-5.jpg",
+        "id": "005",
+        "estateTitle": "Contemporary Loft with Industrial Charm",
+        "segmentName": "Loft",
+        "description": "Discover urban living at its finest in this contemporary loft located in the bustling city of Dhaka. Housed in a renovated industrial building, this loft boasts character and charm at every turn. The interior features exposed brick walls, soaring ceilings, and expansive windows that flood the space with natural light. The open-concept layout seamlessly connects the living, dining, and kitchen areas, creating an ideal space for modern living and entertaining. The kitchen is a chef's dream, with high-end appliances and plenty of counter space. Retreat to the spacious bedroom, complete with a luxurious ensuite bathroom and walk-in closet. With its prime location in the heart of Dhaka's arts district, this loft offers convenience and style for discerning urban dwellers.",
+        "price": 600000,
+        "status": "sale",
+        "area": 2000,
+        "location": "Dhaka",
+        "facility": [
+            "living room",
+            "kitchen",
+            "high ceilings",
+            "exposed brick",
+            "workspace"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/xC5XJBn/villa-6.jpg",
+        "id": "006",
+        "estateTitle": "Seaside Villa with Private Beach Access",
+        "segmentName": "Villa",
+        "description": "Escape to paradise with this luxurious seaside villa located in Cox's Bazar, Bangladesh's premier beach destination. Situated on a pristine stretch of coastline, this villa offers breathtaking views of the ocean from every room. The interior is elegantly appointed with high-end furnishings and luxurious finishes, creating a serene and inviting atmosphere. Entertain guests in the spacious living and dining areas, or relax by the fireplace in the cozy family room. The gourmet kitchen is a chef's dream, equipped with top-of-the-line appliances and granite countertops. Outside, the expansive terrace overlooks the sparkling pool and manicured gardens, providing the perfect setting for al fresco dining and sunset cocktails. With direct access to a private beach, this villa offers the ultimate in luxury beachfront living.",
+        "price": 1800000,
+        "status": "sale",
+        "area": 4000,
+        "location": "Cox's Bazar",
+        "facility": [
+            "living room",
+            "kitchen",
+            "private beach access",
+            "pool",
+            "spa"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/tMbbymp/apartment-7.webp",
+        "id": "007",
+        "estateTitle": "Modern Apartment in Vibrant Neighborhood",
+        "segmentName": "Apartment",
+        "description": "Experience city living at its finest in this modern apartment located in the vibrant heart of Dhaka. Situated in a sleek high-rise building, this apartment offers stunning views of the city skyline and easy access to shopping, dining, and entertainment options. The interior is thoughtfully designed with contemporary finishes and open-concept living spaces, creating a bright and airy atmosphere. The kitchen is equipped with stainless steel appliances and quartz countertops, making it perfect for cooking and entertaining. Relax and unwind in the spacious living room, or step out onto the private balcony to enjoy fresh air and city views. With amenities such as a fitness center, swimming pool, and 24-hour security, this apartment offers convenience and luxury for modern urban living.",
+        "price": 3000,
+        "status": "rent",
+        "area": 1200,
+        "location": "Dhaka",
+        "facility": [
+            "living room",
+            "kitchen",
+            "fitness center",
+            "balcony",
+            "security"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/r7xzr1d/mansion-8.jpg",
+        "id": "008",
+        "estateTitle": "Elegant Mansion with Expansive Grounds",
+        "segmentName": "Mansion",
+        "description": "Indulge in luxury living with this elegant mansion set on expansive grounds in Dhaka's prestigious Suburban Estates. This stately residence boasts timeless architectural details and sophisticated design elements, creating a grand and welcoming atmosphere. The interior features spacious living areas, high ceilings, and luxurious finishes throughout. Entertain guests in the formal dining room, or relax by the fireplace in the cozy family room. The gourmet kitchen is a chef's dream, with top-of-the-line appliances and custom cabinetry. Upstairs, the master suite is a true retreat, with a spa-like ensuite bathroom and private balcony overlooking the lush grounds. Outside, the meticulously landscaped garden offers a peaceful oasis, with a swimming pool, tennis court, and outdoor kitchen for al fresco dining. With its unparalleled elegance and luxury amenities, this mansion is a true masterpiece of modern living.",
+        "price": 2500000,
+        "status": "sale",
+        "area": 8000,
+        "location": "Dhaka",
+        "facility": [
+            "living room",
+            "kitchen",
+            "garden",
+            "pool",
+            "home theater"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/WpTfR3w/cottage-9.jpg",
+        "id": "009",
+        "estateTitle": "Quaint Cottage in Picturesque Countryside",
+        "segmentName": "Cottage",
+        "description": "Escape to the idyllic countryside with this charming cottage nestled in the rolling hills of Sylhet. Surrounded by lush greenery and scenic views, this cottage offers peace and tranquility away from the hustle and bustle of city life. The interior is cozy and inviting, with rustic wood beams, stone accents, and a warm color palette. Curl up with a book by the fireplace in the living room, or enjoy meals with family and friends in the spacious dining area. The kitchen is well-equipped for cooking and entertaining, with modern appliances and plenty of counter space. Upstairs, the bedrooms offer comfortable retreats, with plush bedding and serene views of the countryside. Outside, the wrap-around porch is perfect for enjoying morning coffee or evening sunsets, while the expansive garden provides space for gardening and outdoor activities. With its picturesque setting and charming character, this cottage is the perfect country retreat.",
+        "price": 200000,
+        "status": "sale",
+        "area": 1500,
+        "location": "Sylhet",
+        "facility": [
+            "living room",
+            "kitchen",
+            "fireplace",
+            "garden",
+            "security"
+        ]
+    }
+]
